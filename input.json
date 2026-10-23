@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "ai"
+  ],
+  "location": "New York, NY",
+  "eventType": "any",
+  "maxEventsPerKeyword": 10,
+  "includeDescription": true,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
